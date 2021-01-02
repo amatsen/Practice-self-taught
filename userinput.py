@@ -1,0 +1,7 @@
+print("time to practice user input!")
+name = input("what is your name? >")
+print("Hello, {}.".format(name))
+x = input("Please enter a number >")
+x= float(x)  
+print(x) 
+print(x + x) 
